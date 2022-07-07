@@ -1,0 +1,15 @@
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\obj\Debug\net6.0\ДопЗадачаПС9.csproj.AssemblyReference.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\obj\Debug\net6.0\ДопЗадачаПС9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\obj\Debug\net6.0\ДопЗадачаПС9.AssemblyInfoInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\obj\Debug\net6.0\ДопЗадачаПС9.AssemblyInfo.cs
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\obj\Debug\net6.0\ДопЗадачаПС9.csproj.CoreCompileInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\bin\Debug\net6.0\ДопЗадачаПС9.exe
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\bin\Debug\net6.0\ДопЗадачаПС9.deps.json
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\bin\Debug\net6.0\ДопЗадачаПС9.runtimeconfig.json
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\bin\Debug\net6.0\ДопЗадачаПС9.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\bin\Debug\net6.0\ДопЗадачаПС9.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\obj\Debug\net6.0\ДопЗадачаПС9.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\obj\Debug\net6.0\refint\ДопЗадачаПС9.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\obj\Debug\net6.0\ДопЗадачаПС9.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\obj\Debug\net6.0\ДопЗадачаПС9.genruntimeconfig.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС9\obj\Debug\net6.0\ref\ДопЗадачаПС9.dll

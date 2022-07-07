@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ДопЗадачаПС8/1.0.0": {
+        "runtime": {
+          "ДопЗадачаПС8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ДопЗадачаПС8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

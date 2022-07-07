@@ -1,0 +1,15 @@
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\bin\Debug\net6.0\ДопЗадачаПС8.exe
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\bin\Debug\net6.0\ДопЗадачаПС8.deps.json
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\bin\Debug\net6.0\ДопЗадачаПС8.runtimeconfig.json
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\bin\Debug\net6.0\ДопЗадачаПС8.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\bin\Debug\net6.0\ДопЗадачаПС8.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\obj\Debug\net6.0\ДопЗадачаПС8.csproj.AssemblyReference.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\obj\Debug\net6.0\ДопЗадачаПС8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\obj\Debug\net6.0\ДопЗадачаПС8.AssemblyInfoInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\obj\Debug\net6.0\ДопЗадачаПС8.AssemblyInfo.cs
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\obj\Debug\net6.0\ДопЗадачаПС8.csproj.CoreCompileInputs.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\obj\Debug\net6.0\ДопЗадачаПС8.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\obj\Debug\net6.0\refint\ДопЗадачаПС8.dll
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\obj\Debug\net6.0\ДопЗадачаПС8.pdb
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\obj\Debug\net6.0\ДопЗадачаПС8.genruntimeconfig.cache
+C:\Users\РОСИЧ\Desktop\ДЗ семинар 3\ДопЗадачаПС8\obj\Debug\net6.0\ref\ДопЗадачаПС8.dll
